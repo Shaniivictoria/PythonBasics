@@ -2,3 +2,34 @@ Chapter One
  PYTHON BASICS.
 
 I will be doing all this practicing on VSCODE. I have also downloaded the python software so the program can actually run. 
+Lets Learn Expressions with Python. 
+
+2+2 
+4 
+** above is called an expression.
+
+More examples of an expression are:
+2*4
+4/12
+2-1
+Expressions are the basic kind of programming instruction in the language. It consist of values and operators. A single value with no operators is also considered as an expression, although 
+it evaluates only to itself.
+
+There are many operators you can use in python expressions. 
+some examples include. 
+
+** <- Operator 
+Exponent <- Operation 
+2**# <- Example 
+8 <- what it is equal too. 
+
+% <- Operator 
+Modulus/remainder <- Operation
+22 % 8 <- Example 
+6 <- what it is equal too.
+
++ <- Operator 
+Addition <- Operation 
+2+2 <- Example 
+4 <- what it is equal too.
+

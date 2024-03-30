@@ -1,0 +1,42 @@
+Continuing in Chapter One. 
+Now we are on the Data Types and Strings.
+
+A data type is a category for values and every value belongs to exactly one data type.
+The most common data types in python are Integers, Floating point numbers and strings. 
+
+Python programs can have text values called strings or strs.
+Always surround your string in single quote. Ex ('Hello Stranger') or ('Goodbye cruel world").
+This is so that python understand where the string begins and ends. 
+You can also have a string with no character in it. As for now. The book states well learn more about it in chapter 4 and we are doing a chapter a day so well get back into it.
+
+ A common error message will show and it probably means you forgot the final single quote charachter at the end of the string. 
+
+error message SyntaxError: EOL while scanning string literal
+
+ex: >>> 'Hello, World!
+
+ SyntaxError: EOL while scanning string literal
+
+Strong Concatentation and Replication:
+
+This is when + is used on two strings values, and it joins the strings as string concatenation operator. 
+Ex: 
+'Shani' + 'Diaz'
+in the shell it will come out as 
+'ShaniDiaz'
+
+You will get an error if you try to use + operator on a string and an integer value.
+Example: 'Shani' + 45
+The error message will be TypeError: can only concatenate str (not "int") to str
+
+This error message means that Python thought you were trying to concatenate an interger to the string "Shani'.
+
+The * operator multiples two integers or floating point values. However when the  * operator is used on one string value and one integer value, it becomes the string replication operator. 
+
+Ex: >> 'Shani' *5
+'ShaniShaniShaniShaniShani'
+
+A variable is like a boc in the computers memory where you can store a single value. 
+You will store values in variables with an assignment statment. 
+
+An Assignment statement consists of a variable name, an equal assignment operator (which is the equal sign.) and the value to be stored.

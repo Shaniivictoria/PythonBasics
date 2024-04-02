@@ -1,0 +1,6 @@
+So the input() function waits for the user to type some text on the keyboard and press ENTER.
+myName = input()
+
+So this function call evaluates to a string equal to the users text and the line of code asssigns the myName variable to this string calue. 
+
+You can think of the input() function call as an expression that evaluates to whatever string the user typed in. 
